@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="welcomeNote">Welcome to the Unit Converter Application</string>
+    <string name="options">Select what type of conversion you want to perform</string>
+    <string name="weight">Weight</string>
+    <string name="length">Length</string>
+    <string name="currency">Currency</string>
+    <string name="speed">Speed</string>
+    <string name="temp">Temperature</string>
+    <string name="timeZone">Time Zone</string>
+    <string name="volume">Volume</string>
+    <string name="BMI">Calculate your BMI</string>
+
+    <string name="Input">Enter a number</string>
+</resources>
